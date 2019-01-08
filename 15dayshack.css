@@ -266,4 +266,7 @@ h3 {
         color: rgba(245, 240, 240, 0.5);
         border-color: azure;
     }
+      .faq li {
+        font-size: 3.3vw;
+    }
 }
